@@ -12,4 +12,6 @@ To run this script you would need
 
 which can be install using pip 
 
+### SCREENSHOT 
+![alt text](https://github.com/ayushkhanduri/Ipl-python-noti-script/blob/master/Screenshot.png "Screenshot")
 By : [Ayush Khanduri](https://www.facebook.com/ayush.khanduri.57)
