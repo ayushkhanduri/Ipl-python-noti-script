@@ -23,7 +23,6 @@ def checkMatchStatus(data):
 
 def currentMatchGoing(data,allMatchesToday):
 	found = -1
-	print(allMatchesToday)
 	for index in reversed(allMatchesToday):
 		if data[index].text.find("*")!=-1:
 			found = index
